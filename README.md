@@ -1,2 +1,15 @@
-# Customer-Churn-Analysis
-A beginner-friendly customer churn analysis project using Python, Pandas, and Matplotlib to analyze customer behavior and visualize churn patterns.
+# Customer Churn Analysis
+
+This project analyzes customer churn data using Python.
+
+Features:
+- Customer churn analysis
+- Data visualization
+- Customer behavior insights
+
+Tools Used:
+- Python
+- Pandas
+- Matplotlib
+- Google Colab
+  
